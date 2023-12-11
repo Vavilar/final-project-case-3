@@ -7,7 +7,7 @@ The table consists of the alphabets written out 26 times in different rows, each
 # Instructions:  
 Step One: Enter Name. Correct name input if necessary.  
 Step Two: Select one of the 3 choices from the menu.  
-step Three: Enter plain text/encrypted text according to what the program requests.  
+step Three: Enter plain text/encrypted text according to what the program requests. It is necessary to writer in upper case letters and no spaces. 
 Step Four: provide keyword to the program.  
 Step Five: review the information.  
 Step Six: Decide whether to run the program again.  
