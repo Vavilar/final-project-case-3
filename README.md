@@ -1,5 +1,4 @@
-Date published: 12/10/23  
-Author: Victoria Avila  
+Published on December 10th, 2023 by Victoria Avila. 
 # Cis 7 Final Project
 Selected Case: #3 Vigenere Cipher Decryption  
 Description:  Vigenere Cipher is a method of encrypting alphabetic text. It uses a simple form of polyalphabetic substitution. A polyalphabetic cipher is any cipher based on substitution, using multiple substitution alphabets .The encryption of the original text is done using the Vigenère square or Vigenère table.
