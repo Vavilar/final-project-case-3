@@ -9,7 +9,7 @@ Proceed with opening and running the program.
 The program will begin by asking you (the user) your name.  
 After inputting your name input, the program will then proceed to display a menu.   
 From there, you may select one of the 3 choices from the menu.  (encrypt, decrypt or close the program).  
-If you, the user, choose to decrypt a message, the program will ask you to provide either an encrypted message or plain text, along with the key.  
+If you, the user, choose to encrypt/decrypt a message, the program will ask you to provide encrypted message/plain text & key.  
 Please make sure to write any responses in ALL upper case letters and no spaces.   
 The program will then output your chosen data.  
 At the end, the program will open the menu again. You may go through the program again or close the program.  
